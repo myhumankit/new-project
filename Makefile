@@ -5,4 +5,4 @@ install:
 
 .PHONY: new
 new:
-	@echo "Not implemented yet!"
+	venv/bin/cookiecutter --output-dir=".." https://github.com/myhumankit/cookiecutter-new-project.git
