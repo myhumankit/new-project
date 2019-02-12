@@ -1,5 +1,5 @@
 # new-project
-A makefile to run new project's commands.
+A Makefile to run new project's commands.
 
 ## Features
  * Provide a Makefile to run usefull commands to run a new MHK project.
@@ -9,7 +9,7 @@ A makefile to run new project's commands.
 ### Requirements
  * git 2.17.1 or higher (package _git_);
  * python 3.6.7 or higher (package _python3_);
- * pip 19.0.1 or higher (package _python3-pip_);
+ * pip 19.0.1 or higher (package _python3-pip_).
 
 ### Installation
 Install a virtualenv and dependencies :
@@ -35,7 +35,7 @@ We use [SemVer](http://semver.org/) for versioning. See the [CHANGELOG.md](CHANG
 If you'd like to contribute, please raise an issue or fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Licensing
-The code in this project is licensed under MIT license. See the [LICENCE](LICENCE) file for details.
+The code in this project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
