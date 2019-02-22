@@ -15,6 +15,9 @@ A Makefile to run new project's commands.
 Install a virtualenv and dependencies :
 
 ```
+$ cd ~/dev/
+$ git clone git@github.com:myhumankit/new-project.git
+$ cd new-project/
 $ make install
 ```
 
@@ -22,6 +25,7 @@ $ make install
 Generate a new project:
 
 ```
+$ cd ~/dev/new-project/
 $ make new
 ```
 
